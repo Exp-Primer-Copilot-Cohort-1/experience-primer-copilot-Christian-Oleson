@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "DevContainer with Copilot",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
